@@ -1,1 +1,1 @@
-# Classification_Stellar_Variability_with_SVM-RF_and_PCA-NMF
+# Classification Stellar Variability with SVM or RF and PCA and/or NMF
