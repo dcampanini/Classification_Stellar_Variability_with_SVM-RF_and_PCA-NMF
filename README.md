@@ -6,7 +6,7 @@ The dataset has 100.000 samples with 3 images from each sample, the size of thes
 
 ![Captura de pantalla (33)](https://user-images.githubusercontent.com/19544865/71312696-8b177800-240c-11ea-9253-c4c262995191.png)
 
-# Classification of de samples
+# Classification of samples
 
 The methodology used to classify the samples is as follow:
 1) Transform the 3 images in one vector of dimension 3x21x21=1323
