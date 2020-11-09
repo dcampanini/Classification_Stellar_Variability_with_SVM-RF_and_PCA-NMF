@@ -1,4 +1,4 @@
-# Classification Stellar Variability with SVM or RF and PCA and/or NMF
+# Discriminating Variable Star Candidates using SVM or RF and PCA or NMF, or both.
 
 This work consists in classify images from the High Cadence Transient Survey (HiTS) project that is trying to find a transient event that occurs during the first instants of a supernova.
 
