@@ -8,7 +8,7 @@ The dataset has 100.000 samples with 3 images from each sample, the size of thes
 
 # Classification of samples
 
-The methodology used to classify the samples is as follow:
+The methodology employed to classify the samples is as follow:
 1) Transform the 3 images in one vector of dimension 3x21x21=1323
 2) Extract features of these vector with PCA and NMF
 3) Train an SVM and a Random Forest classifier to determinate the class of a sample of test.
